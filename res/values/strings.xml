@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">UnivTimeTable</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string-array name="list">
+        <item >COMP</item>
+        <item >IT</item>
+        <item >E&amp;TC</item>
+        <item >MECH</item>
+    </string-array>
+    <string name="topText">University Time Table</string>
+    <string name="dayDate">Day &amp; Date</string>
+    <string name="sub">Subject</string>
+    <string-array name="compTE">
+        <item >Principles of Programming Languages (310249) </item>
+        <item >Computer Networks (310250) </item>
+        <item >Systems Programming &amp; Operating Systems (310252) </item>
+        <item >Finance and Management Information Systems (310251) </item>
+        <item >Software Engineering (310253) </item>
+    </string-array>
+    <string-array name="dates">
+        <item >Saturday , 17.05.2014</item>
+        <item >Tuesday, 20.05.2014 </item>
+        <item >Thursday, 22.05.2014 </item>
+        <item >Saturday, 24.05.2014 </item>
+        <item >Tuesday, 27.05.2014 </item>
+    </string-array>
+
+</resources>
