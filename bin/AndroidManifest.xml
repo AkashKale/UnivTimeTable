@@ -23,6 +23,8 @@
             </intent-filter>
         </activity>
         <activity android:name="ActivityComp"></activity>
+         <activity android:name="YearsActivity"></activity>
+         <activity android:name="TableActivity"></activity>
     </application>
 
 </manifest>
